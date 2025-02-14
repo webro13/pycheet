@@ -1,0 +1,19 @@
+[project]
+name = "pycheet"
+version = "0.0.1"
+authors = [
+  { name="Rocco S", email="botmech@outlook.com" },
+]
+description = "A small python cheet package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/webro13/pycheet"
+Issues = "https://github.com/pypa/sampleproject/issues"
